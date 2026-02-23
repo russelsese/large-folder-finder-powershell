@@ -4,8 +4,7 @@
 
 This project contains:
 1. `DiskUsage.ps1` for interactive disk usage exploration and logging.
-2. `copy-files-before-delete.cmd` with example `robocopy` commands (commented out) for backing up folders.
-3. `archived-logs` with previous log outputs.
+2. `archived-logs` with previous log outputs.
 
 ## DiskUsage.ps1
 
@@ -29,7 +28,3 @@ After each scan:
 1. Enter a number to drill into that folder.
 2. Type `back` (or `b`) to move up one level.
 3. Type `q` / `quit` / `exit` to stop.
-
-## copy-files-before-delete.cmd
-
-`copy-files-before-delete.cmd` contains example `robocopy` commands for backing up folders. All commands are commented out; edit and uncomment the lines you need before running.
