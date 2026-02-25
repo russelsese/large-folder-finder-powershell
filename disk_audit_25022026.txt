@@ -31,3 +31,75 @@ Drilling into: C:\Users\rsese\AppData
 === Top 20 folders under: C:\Users\rsese\AppData ===
 
 Scanning: C:\Users\rsese\AppData
+[1] C:\Users\rsese\AppData\Local  (68.45 GB)
+[2] C:\Users\rsese\AppData\Roaming  (9.09 GB)
+[3] C:\Users\rsese\AppData\LocalLow  (0.15 GB)
+User selection: 1
+Drilling into: C:\Users\rsese\AppData\Local
+
+=== Top 20 folders under: C:\Users\rsese\AppData\Local ===
+
+Scanning: C:\Users\rsese\AppData\Local
+[1] C:\Users\rsese\AppData\Local\Packages  (22.4 GB)
+[2] C:\Users\rsese\AppData\Local\Microsoft  (22.19 GB)
+[3] C:\Users\rsese\AppData\Local\Docker  (6.05 GB)
+[4] C:\Users\rsese\AppData\Local\Google  (3.15 GB)
+[5] C:\Users\rsese\AppData\Local\Temp  (2.3 GB)
+[6] C:\Users\rsese\AppData\Local\WebEx  (1.67 GB)
+[7] C:\Users\rsese\AppData\Local\Programs  (1.43 GB)
+[8] C:\Users\rsese\AppData\Local\Postman  (1.19 GB)
+[9] C:\Users\rsese\AppData\Local\SynologyDrive  (1.09 GB)
+[10] C:\Users\rsese\AppData\Local\AnthropicClaude  (0.87 GB)
+[11] C:\Users\rsese\AppData\Local\CiscoSpark  (0.76 GB)
+[12] C:\Users\rsese\AppData\Local\PowerToys  (0.69 GB)
+[13] C:\Users\rsese\AppData\Local\evernote-client-updater  (0.67 GB)
+[14] C:\Users\rsese\AppData\Local\CiscoSparkLauncher  (0.66 GB)
+[15] C:\Users\rsese\AppData\Local\GitHubDesktop  (0.63 GB)
+[16] C:\Users\rsese\AppData\Local\balena_etcher  (0.62 GB)
+[17] C:\Users\rsese\AppData\Local\AzureFunctionsTools  (0.59 GB)
+[18] C:\Users\rsese\AppData\Local\AmazonChime  (0.35 GB)
+[19] C:\Users\rsese\AppData\Local\Package Cache  (0.3 GB)
+[20] C:\Users\rsese\AppData\Local\pip  (0.2 GB)
+User selection: 4
+Drilling into: C:\Users\rsese\AppData\Local\Google
+
+=== Top 20 folders under: C:\Users\rsese\AppData\Local\Google ===
+
+Scanning: C:\Users\rsese\AppData\Local\Google
+[1] C:\Users\rsese\AppData\Local\Google\Chrome  (1.77 GB)
+[2] C:\Users\rsese\AppData\Local\Google\Chrome SxS  (0.69 GB)
+[3] C:\Users\rsese\AppData\Local\Google\GoogleUpdater  (0.67 GB)
+[4] C:\Users\rsese\AppData\Local\Google\Update  (0.01 GB)
+User selection: 1
+Drilling into: C:\Users\rsese\AppData\Local\Google\Chrome
+
+=== Top 20 folders under: C:\Users\rsese\AppData\Local\Google\Chrome ===
+
+Scanning: C:\Users\rsese\AppData\Local\Google\Chrome
+[1] C:\Users\rsese\AppData\Local\Google\Chrome\User Data  (1.77 GB)
+User selection: 1
+Drilling into: C:\Users\rsese\AppData\Local\Google\Chrome\User Data
+
+=== Top 20 folders under: C:\Users\rsese\AppData\Local\Google\Chrome\User Data ===
+
+Scanning: C:\Users\rsese\AppData\Local\Google\Chrome\User Data
+[1] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\Default  (0.65 GB)
+[2] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\Profile 4  (0.56 GB)
+[3] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\Profile 2  (0.26 GB)
+[4] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\Snapshots  (0.08 GB)
+[5] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\optimization_guide_model_store  (0.07 GB)
+[6] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\Safe Browsing  (0.04 GB)
+[7] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\component_crx_cache  (0.03 GB)
+[8] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\WasmTtsEngine  (0.02 GB)
+[9] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\OnDeviceHeadSuggestModel  (0.01 GB)
+[10] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\extensions_crx_cache  (0.01 GB)
+[11] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\GrShaderCache  (0.01 GB)
+[12] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\ActorSafetyLists  (0 GB)
+[13] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\RecoveryImproved  (0 GB)
+[14] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\SafetyTips  (0 GB)
+[15] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\segmentation_platform  (0 GB)
+[16] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\SSLErrorAssistant  (0 GB)
+[17] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\Subresource Filter  (0 GB)
+[18] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\System Profile  (0 GB)
+[19] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\ThirdPartyModuleList64  (0 GB)
+[20] C:\Users\rsese\AppData\Local\Google\Chrome\User Data\TpcdMetadata  (0 GB)

@@ -20,7 +20,7 @@ This project contains:
 
 ```powershell
 .\DiskUsage.ps1 -Path C:\Users\rsese -Top 20 -LogFile "disk_audit.txt"
-.\Tail.ps1 -FilePath "disk_audit.txt" -Lines 50
+ Get-Content "disk_audit.txt" -Tail 20 -Wait
 ```
 
 ### Interaction
