@@ -1,0 +1,33 @@
+===== Disk Usage Scan Started: 02/25/2026 11:08:59 =====
+Root Path: C:\Users\rsese
+Top Results: 20
+
+=== Top 20 folders under: C:\Users\rsese ===
+
+Scanning: C:\Users\rsese
+[1] C:\Users\rsese\AppData  (77.81 GB)
+[2] C:\Users\rsese\OneDrive - Royal Australasian College of Physicians  (6.61 GB)
+[3] C:\Users\rsese\.vscode  (2.08 GB)
+[4] C:\Users\rsese\.local  (0.65 GB)
+[5] C:\Users\rsese\.nuget  (0.32 GB)
+[6] C:\Users\rsese\Downloads  (0.16 GB)
+[7] C:\Users\rsese\.docker  (0.12 GB)
+[8] C:\Users\rsese\aws  (0.09 GB)
+[9] C:\Users\rsese\.EasyOCR  (0.09 GB)
+[10] C:\Users\rsese\.openjfx  (0.06 GB)
+[11] C:\Users\rsese\.claude  (0.03 GB)
+[12] C:\Users\rsese\.cache  (0.02 GB)
+[13] C:\Users\rsese\.wdm  (0.02 GB)
+[14] C:\Users\rsese\Pictures  (0.01 GB)
+[15] C:\Users\rsese\.codex  (0.01 GB)
+[16] C:\Users\rsese\.chocolatey  (0.01 GB)
+[17] C:\Users\rsese\Royal Australasian College of Physicians  (0.01 GB)
+[18] C:\Users\rsese\TOSHIBA  (0.01 GB)
+[19] C:\Users\rsese\Templates  (0 GB)
+[20] C:\Users\rsese\My Documents  (0 GB)
+User selection: 1
+Drilling into: C:\Users\rsese\AppData
+
+=== Top 20 folders under: C:\Users\rsese\AppData ===
+
+Scanning: C:\Users\rsese\AppData
